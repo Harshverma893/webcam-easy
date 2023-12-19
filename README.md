@@ -8,9 +8,8 @@ You can easily add it as a module to your own app.
 - Take pictures and be able to download.
 
 ## Live Demo
-**[https://bensonruan.com/how-to-access-webcam-and-take-photo-with-javascript/](https://bensonruan.com/how-to-access-webcam-and-take-photo-with-javascript/)**
 
-![webcam-easy-demo](https://bensonruan.com/wp-content/uploads/2020/04/webcam-easy-demo-ok.gif)
+https://drive.google.com/file/d/179ZhkvRtpyRy2yd1kaqs4SOorlLiw8mc/view?usp=sharing
 
 ## Installation
 
